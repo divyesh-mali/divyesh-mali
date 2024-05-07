@@ -1,25 +1,22 @@
 # Divyesh Mali
 
-Hey there! 👋 I'm a passionate Open Source enthusiast, Android Developer & Tech Content Creator 
+Hey there! 👋 I'm a passionate Open Source enthusiast, Mobile App Developer in Android, React Native & also a Tech Content Creator 
 
 ## About Me
 
-I have a strong passion for open source and love contributing to various projects. As an Android Developer, I enjoy building apps that solve real-world problems and provide delightful user experiences. Additionally, I create tech-related content to share my knowledge and experiences with the community. My interest in Data Structures and Algorithms helps me tackle complex problems efficiently and write optimized code.
+I have a strong passion for open source and love contributing to various projects. As an App Developer in Android & React Native, I enjoy building apps that solve real-world problems and provide delightful user experiences. Additionally, I create tech-related content to share my knowledge and experiences with the community. 
 
 ## Skills
-
+- React Native
 - Android Development
-- Java / Kotlin
-- Git and GitHub
-- Data Structures & Algorithms
-- Open Source Contribution
+- Open Source 
 
 ## Projects:
 
 1. [MedAnon](https://github.com/divyesh-mali/MedAnon) : MedAnon abbreviated as Medical Anonymous is a platform that helps people (especially students & females) to share their about their mental or physical health problems anonymously, directly with the Doctors or Psychiatrists and get proper guidance regarding their problem.
 
-Feel free to explore my repositories to see more of my work!
-
+Let's connect and collaborate on exciting projects!
+<!--
 ## Connect with Me
 
 - [Twitter](https://twitter.com/divyesh_mali_)
@@ -27,11 +24,8 @@ Feel free to explore my repositories to see more of my work!
 - [Instagram](https://www.instagram.com/hacker__hub/)
 - Email: divyeshmali8055@gmail.com
 
-Let's connect and collaborate on exciting projects!
 
 
-
-<!--
 **divyesh-mali/divyesh-mali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
